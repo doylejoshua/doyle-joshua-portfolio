@@ -140,7 +140,7 @@ Implementing a protocol stack from scratch — rather than calling a library —
 ### Context
 Developed during my Embedded Systems coursework, this project involved implementing a fully playable two-player Tic-Tac-Toe game on a Texas Instruments microcontroller. The goal was to integrate hardware I/O with software game logic running on bare-metal embedded C, without an operating system.
 
-![Tic-Tac-Toe Hardware](images/Embedded_Tic_Tac_Toe_Hardware.jpg)
+![Tic-Tac-Toe Hardware](images/Embedded_Tic_Tac_Toe_Hardware.png)
 
 ### Content
 
