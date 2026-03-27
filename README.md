@@ -67,6 +67,7 @@ Building this compiler gave me a concrete understanding of how assembly instucti
 ## RISC-V Proccessor
 
 **Language:** Verilog &nbsp;|&nbsp; **Location:** Terre Haute, IN &nbsp;|&nbsp; **Date:** Sep 2025
+**Repository:** [View Code](https://github.com/doylejoshua/Pipelined_Processor_2025_2026)
 
 ### Context
 
