@@ -67,6 +67,7 @@ Building this compiler gave me a concrete understanding of how assembly instucti
 ## RISC-V Proccessor
 
 **Language:** Verilog &nbsp;|&nbsp; **Location:** Terre Haute, IN &nbsp;|&nbsp; **Date:** Sep 2025
+
 **Repository:** [View Code](https://github.com/doylejoshua/Pipelined_Processor_2025_2026)
 
 ### Context
@@ -92,6 +93,8 @@ Implementing pipelining from scratch made hazard handling a real engineering pro
 
 **Language:** C &nbsp;|&nbsp; **Platform:** Linux &nbsp;|&nbsp; **Location:** Terre Haute, IN &nbsp;|&nbsp; **Date:** Dec 2025
 
+**Repository:** [View Code](https://github.com/doylejoshua/TCP_Chat_Application_2025_2026)
+
 ### Context
 
 Built as part of my Communication Networks coursework, this project involved implementing a real-time two-host chat application using socket programming in C within a Linux enviorment. The goal was to understand the mechanics of TCP connection establisment, bidirectional daat flow, and graceful session termination at the application layer. This was tested accross the country with my partner through the use of a school VPN.
@@ -113,6 +116,8 @@ This project helped bring realworld application to TCP/IP concepts from lecture 
 ## Custom Packet Encapsulation Protocol
 
 **Language:** C &nbsp;|&nbsp; **Transport:** UDP &nbsp;|&nbsp; **Location:** Terre Haute, IN &nbsp;|&nbsp; **Date:** Feb 2026
+
+**Repository:** [View Code](https://github.com/doylejoshua/Custom_Protocol_2025_2026)
 
 ### Contect
 
