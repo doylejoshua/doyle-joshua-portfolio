@@ -94,6 +94,7 @@ Implementing pipelining from scratch made hazard handling a real engineering pro
 ### Context
 
 Built as part of my Communication Networks coursework, this project involved implementing a real-time two-host chat application using socket programming in C within a Linux enviorment. The goal was to understand the mechanics of TCP connection establisment, bidirectional daat flow, and graceful session termination at the application layer. This was tested accross the country with my partner through the use of a school VPN.
+
 ![Two User TCp Chat](images/Two_User_TCP_Chat.png)
 
 ### Content
@@ -115,6 +116,7 @@ This project helped bring realworld application to TCP/IP concepts from lecture 
 ### Contect
 
 This project extended my Communication Networks courseowkr bu implementing two custom application-layer protocols - Rose-Hulman Protocol (RHP) and Rose-Hulman Message Protocol (RHMP) - layered above UDP. The assigment simulated the design and implementation of a real protocol stack, including header construction, checksum validation, and retransmission logic.
+
 ![Custom Protocol (RHP)](images/Custom_RHP.png)
 
 ### Content
@@ -123,6 +125,7 @@ This project extended my Communication Networks courseowkr bu implementing two c
 - Calculated and validated 16-bit Internet checksums over packet heeaders and payloads to detect data corruption in transit
 - Handled server respoonses end-to-end: parsing returned packets, validating checksums, and triggering retransmission when validation failed
 - Built the full protocol stack above raw UDP sockets with no reliance on higher-level transport abstractions
+
 ![Custom Protocol (RHMP)](images/Custom_RHMP.png)
   
 ### Conclusion
@@ -136,6 +139,7 @@ Implementing a protocol stack from scratch — rather than calling a library —
 
 ### Context
 Developed during my Embedded Systems coursework, this project involved implementing a fully playable two-player Tic-Tac-Toe game on a Texas Instruments microcontroller. The goal was to integrate hardware I/O with software game logic running on bare-metal embedded C, without an operating system.
+
 ![Tic-Tac-Toe Hardware](images/Embedded_Tic_Tac_Toe_Hardware.jpg)
 
 ### Content
